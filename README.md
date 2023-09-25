@@ -2,7 +2,7 @@
 
 - Practicing all DSA concepts topic by topic.
 
-**list of topics**:
+## **list of topics**:
 
 *DSA*:
 
@@ -42,6 +42,6 @@
 26. Dynamic programminf( 0/1 knapsack, others)
 27. backtracking( N-queens problem)
 
-*practice*
+*practice*:
 
 28. common pratice section
