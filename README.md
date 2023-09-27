@@ -13,8 +13,8 @@ _DSA_:
    2. array_np_1D
    3. array_2D
 4. python list
-   1.list.py
-   2.list_comprehension.py
+   1. list.py
+   2. list_comprehension.py
 5. python dict
 6. python tuple
 7. python OOPs
