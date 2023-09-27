@@ -1,4 +1,4 @@
-# DSA-practice-udemy
+# DSA-practice-python
 
 - Practicing all DSA concepts topic by topic.
 
@@ -10,9 +10,11 @@ _DSA_:
 2. bit array
 3. python array
    1. array_1D
-   2. array_np \_1D
+   2. array_np_1D
    3. array_2D
 4. python list
+   1.list.py
+   2.list_comprehension.py
 5. python dict
 6. python tuple
 7. python OOPs
