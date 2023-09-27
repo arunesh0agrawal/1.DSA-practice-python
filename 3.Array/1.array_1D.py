@@ -1,6 +1,8 @@
 # Two ways to define array
 # 1. import array ( built-in)
-# 2. import np ( np:numpy need installation)
+# 2. import np ( np:numpy need installation) [ implemented in np_array_1D.py file]
+
+# use-case: optimised homogenous data storage compared to list
 
 # defining how 1D-array are implemented using array module
 

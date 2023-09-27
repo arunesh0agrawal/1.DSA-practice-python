@@ -4,11 +4,14 @@
 
 ## **list of topics**:
 
-*DSA*:
+_DSA_:
 
 1. mathematical
 2. bit array
 3. python array
+   1. array_1D
+   2. array_np \_1D
+   3. array_2D
 4. python list
 5. python dict
 6. python tuple
@@ -27,7 +30,7 @@
 19. Trie
 20. Hashing
 
-*Algorithm*:
+_Algorithm_:
 
 21. sorting ( bubble, insertion, selection, merge, quick)
 22. searching (linear, binary)
@@ -37,11 +40,11 @@
     - Single source shortest path (Djisktra, Bellman Ford)
     - All pair shortest path (floyyd warshell)
     - minimum spanning tree (krushkal's, prims)
-24. greedy algorithms ( Fractional Knapsack, activivty selection problem(ASP), coin change) 
+24. greedy algorithms ( Fractional Knapsack, activivty selection problem(ASP), coin change)
 25. Divide and conquer (0/1 knapsack , longest common sequence, longest common subsequence, others)
 26. Dynamic programminf( 0/1 knapsack, others)
 27. backtracking( N-queens problem)
 
-*practice*:
+_practice_:
 
 28. common pratice section
