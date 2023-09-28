@@ -51,4 +51,4 @@ _Algorithm_:
 
 _Practice_:
 
-29. Common practice section
+29. Common practice problems
