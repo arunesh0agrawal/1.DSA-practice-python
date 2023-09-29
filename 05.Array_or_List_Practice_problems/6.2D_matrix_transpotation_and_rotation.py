@@ -4,7 +4,7 @@
 # Output: [[7,4,1],[8,5,2],[9,6,3]]
 
 
-def rotate(matrix):
+def rotate_90_clockwise(matrix):
 
     # Transpose the matrix
     for i in range(len(matrix)):
@@ -19,4 +19,4 @@ def rotate(matrix):
 
 
 matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
-print(rotate(matrix))
+print(rotate_90_clockwise(matrix))
