@@ -19,36 +19,37 @@ _DSA_:
 5. Array/List practice Problems
 6. Python dict
 7. Python tuple
-8. Python OOPs
-9. Single linked list(SLL)
-10. Circular single linked list (CSLL)
-11. Doubly linked list
-12. Circular Doubly linked list
-13. Stack
-14. Queue
-15. Recursion
-16. Tree/binary Tree
-17. BST
-18. AVL tree
-19. Binary heap
-20. Trie
-21. Hashing
+8. Python set
+9. Python OOPs
+10. Single linked list(SLL)
+11. Circular single linked list (CSLL)
+12. Doubly linked list
+13. Circular Doubly linked list
+14. Stack
+15. Queue
+16. Recursion
+17. Tree/binary Tree
+18. BST
+19. AVL tree
+20. Binary heap
+21. Trie
+22. Hashing
 
 _Algorithm_:
 
-22. Sorting ( bubble, insertion, selection, merge, quick)
-23. Searching (linear, binary)
-24. Graph algorithms
+23. Sorting ( bubble, insertion, selection, merge, quick)
+24. Searching (linear, binary)
+25. Graph algorithms
     - BFS/DFS
     - Topological sort
     - Single source shortest path (Djisktra, Bellman Ford)
     - All pair shortest path (floyyd warshell)
     - Minimum spanning tree (krushkal's, prims)
-25. Greedy algorithms ( Fractional Knapsack, activivty selection problem(ASP), coin change)
-26. Divide and conquer (0/1 knapsack , longest common sequence, longest common subsequence, others)
-27. Dynamic programminf( 0/1 knapsack, others)
-28. Backtracking( N-queens problem)
+26. Greedy algorithms ( Fractional Knapsack, activivty selection problem(ASP), coin change)
+27. Divide and conquer (0/1 knapsack , longest common sequence, longest common subsequence, others)
+28. Dynamic programminf( 0/1 knapsack, others)
+29. Backtracking( N-queens problem)
 
 _Practice_:
 
-29. Common practice problems
+30. Common practice problems
