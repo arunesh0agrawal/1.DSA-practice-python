@@ -1,5 +1,10 @@
 # Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
 
+# Releated Pronlems : 
+# 1) contains duplicate II
+# 2) contains dupliacte iii
+# 3) make array zero by subtracting equal zero
+
 # Example 1:
 
 # Input: nums = [1,2,3,1]
