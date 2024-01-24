@@ -48,5 +48,15 @@ def isAnagram(s: str, t: str) -> bool: # [ T(O) : O(n)]
     return True
 print(isAnagram("anagram", "nmgraaa"))
 
+# pythonic+ Algorithmic (more optimized way)
+from collections import Counter
+
+def isAnagram(s: str, t: str) -> bool:
+    return Counter(s) == Counter(t)
+
+# Example usage:
+print(isAnagram("anagram", "nagaram"))  # Output: True
+
+
 
     
