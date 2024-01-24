@@ -2,6 +2,10 @@
 
 # You must write an algorithm that runs in O(n) time.
 
+# # related problems
+# 1.  Binary Tree Longest Consecutive Sequence
+# 2. Find Three Consecutive Integers That Sum to a Given Number
+# 3. Maximum Consecutive Floors Without Special Floors
  
 
 # Example 1:
