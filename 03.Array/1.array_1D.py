@@ -35,10 +35,10 @@ def traverse_array(arr):  # [ t(n) : O(n), S(n): O(1)]
 
 traverse_array(my_arr1)
 
-# accessing array elemet
+# accessing array element
 print(my_arr1[2])  # [output : 2, t(n): 1, s(n): 1]
 
-# serching array element
+# searching array element
 
 
 def liner_search(arr, target):  # [ t(n): O(n), s(n): O(1) ]
