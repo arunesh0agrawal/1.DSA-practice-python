@@ -1,11 +1,15 @@
-# import pdb
-# pdb.set_trace()
+# each node contains data and two pointers or references: one to the next node in the sequence and another to the previous node. 
+# traversal in both directions (forward and backward)
+
 class Node:
+
     def __init__(self, data):
         self.data = data
+        self.prev = None
         self.next = None
 
-class LinkedList:
+class DoubleLL:
+
     def __init__(self):
         self.head = None
 
@@ -16,10 +20,6 @@ class LinkedList:
             print(current.data, end="->" )
             current = current.next
         print(current.data)
-        # while current:
-        #     print(current.data, end="->" )
-        #     current = current.next
-        # print(None)
 
     def search(self, data):
         current = self.head
@@ -37,24 +37,20 @@ class LinkedList:
             current = current.next
         return count
     
-    def prepend(self, data):
+    def prepand(self, data):
         new_node = Node(data)
-        new_node.next = self.head
-        self.head = new_node
 
-    def append(self, data):
-        new_node = Node(data)
         if not self.head:
             self.head = new_node
             return
-        last = self.head
-        while last.next:
-            last = last.next
-        last.next = new_node
-    
+        self.head.prev = new_node
+        new_node.next = self.head
+        new_node.prev = self.head
+        self.head = new_node
+
 
     def delete(self):
-        # implement in next practiec for revison
+        #implement during revision time
         pass
 
     def insert_after_a_value(self, value, data):
@@ -68,19 +64,31 @@ class LinkedList:
             current = current.next
             if not current:
                 return "no such node is available"
-            
+
+        current.next.prev = new_node   
         new_node.next = current.next
         current.next = new_node
-        return        
-        
-
-
-my_list = LinkedList()
-my_list.append("A")
-my_list.append("B")
-
-print(my_list.search("A"))
-print(my_list.insert_after_a_value("B", "C"))
-my_list.print()
-
+        new_node.prev = current
+        return 
     
+    def append(self, data):
+        new_node = Node(data)
+
+        if not self.head:
+            self.head = new_node
+            return
+
+        current = self.head
+        while current.next:
+            current = current.next
+        current.next = new_node
+        new_node.prev = current
+
+DLL = DoubleLL()
+DLL.append("A")
+DLL.append("B")
+DLL.prepand("C")
+print(DLL.insert_after_a_value("A", "E"))
+DLL.print()
+print(DLL.count())
+print(DLL.search("A"))
