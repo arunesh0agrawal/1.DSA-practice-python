@@ -46,6 +46,7 @@ _DSA_:
     3. binary_search_tree_BST.py
     4. AVL_tree.py
     5. Trie.py
+    6. B-Tree
 13. Binary heap
 14. Hashing
 
