@@ -31,9 +31,9 @@ _DSA_:
    2. double_linked_list.py
    3. circular_single_linked_list.py
    4. circular_double_linked_list.py
-10. Stackv
-   1. stack.md
-   2. stack.py
+10. Stack
+    1. stack.md
+    2. stack.py
 <!-- 11. Queue
    1. queue.md
    2. queue.py
