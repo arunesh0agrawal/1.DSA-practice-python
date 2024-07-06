@@ -19,26 +19,35 @@ _DSA_:
 5. Array/List practice Problems
 6. Python dict
    1. dict_functions.py
-7. Dictionary practice problem
-8. Python tuple
-9. Tuple practice problem
-10. Python set
-11. Set practice problem
-12. Python OOPs
-    1. OOPs_common_concepts.txt
-13. Single linked list(SLL)
-14. Circular single linked list (CSLL)
-15. Doubly linked list
-16. Circular Doubly linked list
-17. Stack
-18. Queue
-19. Recursion
-20. Tree/binary Tree
-21. BST
-22. AVL tree
-23. Binary heap
-24. Trie
-25. Hashing
+   practice/
+7. Python tuple
+   1. tuple.py
+   practice/
+8. Python set
+   1. set.py
+   practice/
+9. Linked list
+   1. Single_linked_list.py
+   2. double_linked_list.py
+   3. circular_single_linked_list.py
+   4. circular_double_linked_list.py
+10. Stack
+   1. stack.md
+   2. stack.py
+11. Queue
+   1. queue.md
+   2. queue.py
+   3. circular_queue.py
+   4. priority_queue.py
+   5. deque.py (Double-ended Queue)
+12. Tree
+   1. binary_tree.md
+   2. binary_tree.py
+   3. binary_search_tree_BST.py
+   4. AVL_tree.py
+   5. Trie.py
+13. Binary heap
+14. Hashing
 
 _Algorithm_:
 
@@ -52,7 +61,7 @@ _Algorithm_:
     - Minimum spanning tree (krushkal's, prims)
 29. Greedy algorithms ( Fractional Knapsack, activivty selection problem(ASP), coin change)
 30. Divide and conquer (0/1 knapsack , longest common sequence, longest common subsequence, others)
-31. Dynamic programminf( 0/1 knapsack, others)
+31. Dynamic programming( 0/1 knapsack, others)
 32. Backtracking( N-queens problem)
 
 _Practice_:
