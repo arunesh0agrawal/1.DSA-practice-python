@@ -34,18 +34,18 @@ _DSA_:
 10. Stack
     1. stack.md
     2. stack.py
-<!-- 11. Queue
-   1. queue.md
-   2. queue.py
-   3. circular_queue.py
-   4. priority_queue.py
-   5. deque.py (Double-ended Queue)
+11. Queue
+    1. queue.md
+    2. queue.py
+    3. circular_queue.py
+    4. priority_queue.py
+    5. deque.py (Double-ended Queue)
 12. Tree
-   1. binary_tree.md
-   2. binary_tree.py
-   3. binary_search_tree_BST.py
-   4. AVL_tree.py
-   5. Trie.py
+    1. binary_tree.md
+    2. binary_tree.py
+    3. binary_search_tree_BST.py
+    4. AVL_tree.py
+    5. Trie.py
 13. Binary heap
 14. Hashing
 
@@ -66,5 +66,5 @@ _Algorithm_:
 
 _Practice_:
 
-33. Common practice problems -->
+33. Common practice problems
 
