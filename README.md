@@ -32,9 +32,9 @@ _DSA_:
    3. circular_single_linked_list.py
    4. circular_double_linked_list.py
 10. Stack
-   1. stack.md
-   2. stack.py
-11. Queue
+   - stack.md
+   - stack.py
+<!-- 11. Queue
    1. queue.md
    2. queue.py
    3. circular_queue.py
@@ -66,5 +66,5 @@ _Algorithm_:
 
 _Practice_:
 
-33. Common practice problems
+33. Common practice problems -->
 
