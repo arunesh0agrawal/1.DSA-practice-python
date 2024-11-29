@@ -1,3 +1,6 @@
+# two func algo trick
+#1. mergesort: create a func to call itself with edge conditon and merge
+#2. merge: just a simple comparison of two sorted arrays 
 def merge_sort(arr):
     if len(arr) <= 1:
         return arr
